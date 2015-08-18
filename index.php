@@ -4,7 +4,15 @@
 		<title>Testes de html 5, ecmascript 6, css 3 e php 5</title>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	</head>
-	<body> 
+	<body bgcolor="#CCEEFF">
+
+		<ul>
+ 	 <li> <h2>Programacao para internet</h2></li>
+  	<li><h3>Engenharia de software</h3></li>
+	</ul>
+
+
+
 		<?php
 		echo "Juliana e alexsandro Stefenon<br>";
 		echo "1,2,3,4,5,<br>";
