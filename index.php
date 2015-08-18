@@ -7,12 +7,15 @@
 	<body>
 		<?php
 		echo "Juliana e alexsandro Stefenon<br>";
-		echo "1,2,3,4,5,";
-		echo "6,7,8,9,10";
-		echo "11";
-		echo "alexsandro";
-		echo "20";
-		echo "22";
+		echo "1,2,3,4,5,<br>";
+		echo "6,7,8,9,10<br>";
+		echo "11<br>";
+		echo "alexsandro<br>";
+		echo "20<br>";
+		
+		echo "paolla<br>";
+		echo "chuva<br>";
+
 		?>
 	</body>
 </html>
