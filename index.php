@@ -11,6 +11,44 @@
   	<li><h3>Engenharia de software</h3></li>
 	</ul>
 
+<form> 
+      De que frutas você gosta? <br /> 
+      <input type="checkbox" name="uva" value="uva"/>Uva <br /> 
+      <input type="checkbox" name="maca" value="maca"/>Maçã <br /> 
+      <input type="checkbox" name="melancia" value="melancia"/>Melancia 
+</form>
+
+<h1>Faça login</h1> 
+<form action="index.html" method="post"> 
+      <table> 
+            <tr> 
+                  <td> 
+                        Nome: 
+                  </td> 
+            </tr> 
+            <tr> 
+                  <td> 
+                        <input type="text" name="nome_do_usuario"/> 
+                  </td> 
+            </tr> 
+            <tr> 
+                  <td> 
+                        Senha: 
+                  </td> 
+            </tr> 
+            <tr> 
+                  <td> 
+                        <input type="password" name="senha_do_usuario"/> 
+                  </td> 
+            </tr> 
+            <tr> 
+                  <td> 
+                        <input type="submit" name="botao" value="Entrar"/> 
+                  </td> 
+            </tr> 
+      </table> 
+</form>
+
 
 
 		<?php
